@@ -19,14 +19,14 @@ const About = () => {
     title: 'Higher Secondary Certificate',
     company: 'DDSP Jr. College, Erandol, Dist. Jalgaon',
     period: '2022',
-    description: 'Delivered a clean, dynamic web presence for a car detailing service, emphasizing performance and mobile experience.',
+    description: 'Completed 12th (HSC) with 77.5%, gaining a strong academic foundation in core subjects, along with improved analytical ability, discipline, and structured learning.',
     type: 'education'
   },
   {
     title: 'Secondary School Certificate',
     company: 'RT Kabre Vidyalaya, Erandol, Dist. Jalgaon',
     period: '2020',
-    description: 'Developed responsive and interactive business websites tailored to client needs using modern frontend technologies.',
+    description: 'Completed 10th (SSC) with 87.8%, demonstrating strong academic performance, conceptual understanding, and dedication to studies.',
     type: 'education'
   },
   ];
